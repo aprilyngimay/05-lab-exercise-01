@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SHS Student Registration</string>
+    <string name="academic_program">Academic Program</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_last">Enter your Last name</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="gender_name">Gender</string>
+    <string name="Female">Female</string>
+    <string name="Male">Male</string>
+    <string name="requirements_name">Requirements</string>
+    <string name="report_card">Original Report Card</string>
+    <string name="nso_card">NSO copy of Birth Certificate</string>
+    <string name="goodmoral_card">Certificate of Good Moral Character</string>
+    <string name="junior_card">Certification of Junior High School Completion</string>
+    <string name="submit_button">SUBMIT</string>
+    <string-array name="course_array">
+    <string name="abm">ABM</string>
+    <string name="bsit">BSIT</string>
+    <string name="bscoe">BSCoE</string>
+    <string name="bsmt">BSMT</string>
+    <string name="msit">MSIT</string>
+    <string name="mscs">MSCS</string>
+    </string-array>
+</resources>
